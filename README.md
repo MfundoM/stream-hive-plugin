@@ -1,24 +1,32 @@
-=== StreamHive Plugin ===
+# StreamHive Plugin
 
-== Description ==
+---
+
+## Description
 
 StreamHive is a WordPress plugin that allows users to search movies via The Movie Database (TMDB) and save favorites. It’s built with PHP and JavaScript (AJAX).
 
-== Features ==
+---
+
+## Features
 
 - Search movies using TMDB API
 - Add movies to favorites (logged-in users)
 - Display user’s favorite movies
 - View contact info
 
-== Installation ==
+---
+
+## Installation
 
 1. Download the plugin ZIP or clone it from GitHub.
 2. Upload the folder to the `/wp-content/plugins/` directory.
 3. Activate the plugin from the **Plugins** menu in WordPress.
 4. Visit **Settings > StreamHive** to configure api-key.
 
-== Usage ==
+---
+
+## Usage
 
 **Display the popular movie favorites and contact:**
 
